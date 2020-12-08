@@ -32,6 +32,7 @@ Python
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40" height="40">
 Swift (IOS Development)
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="40" height="40">
+<br>
 Android Studio (Java)
 <img src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" width="40" height="40">
 Visual Studio Code
@@ -49,5 +50,5 @@ Terminal
 ---
 
 
-[gmail]: ernestwong1027@gmail.com
+[gmail]: mailto:ernestwong1027@gmail.com
 [linkedin]: https://www.linkedin.com/in/ernest-wong-90b4521a7/
