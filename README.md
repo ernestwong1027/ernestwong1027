@@ -10,10 +10,15 @@
 - ⚡ Fun fact: I love flipping used electronics
 
 ### Connect with me:
-
-[<img align="left" alt="Ernest1027 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ernest1027 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
+<a href="https://www.linkedin.com/in/ernest-wong-90b4521a7/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40">
+         LinkedIn
+</a>
+<br>
+<a href="mailto:ernestwong1027@gmail.com">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40" height="40">
+         ernestwong1027@gmail.com
+</a>
 <br/>
 
 
@@ -50,5 +55,4 @@ Terminal
 ---
 
 
-[gmail]: mailto:ernestwong1027@gmail.com
-[linkedin]: https://www.linkedin.com/in/ernest-wong-90b4521a7/
+
