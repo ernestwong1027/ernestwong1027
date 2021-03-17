@@ -5,7 +5,7 @@
 ## I'm a IB Student and Part-time Developer!
 
 - 🔭 I'm interested in fintech and edtech
-- 🌱 I’m currently trying to learn everything 🤣
+- 🌱 I’m currently trying to learn everything 
 - 🥅 2021 Goals: Learn more backend
 - ⚡ Fun fact: I love flipping used electronics
 
