@@ -31,6 +31,8 @@ CSS
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40">
 Javascript
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40">
+React.js
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv3WpZrEQcWAgaWswSr96MK3rbJGvu1_NZQ&usqp=CAU" width="40" height="40">
 Java
 <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="40" height="40">
 Python
@@ -49,8 +51,6 @@ Github
 idth="40" height="40">
 Terminal
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40">
-React.js
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv3WpZrEQcWAgaWswSr96MK3rbJGvu1_NZQ&usqp=CAU" width="40" height="40">
 
 
 ---
