@@ -5,7 +5,7 @@
 ## I'm a IB Student and Part-time Developer!
 
 - 🔭 I'm interested in fintech and edtech
-- 🌱 I’m currently trying to learn everything 
+- 🌱 Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
 - 🥅 2021 Goals: Learn more backend
 - ⚡ Fun fact: I love flipping used electronics
 
