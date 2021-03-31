@@ -2,7 +2,7 @@
 
 
 
-## I'm a IB Student and Part-time Developer!
+## I'm an IB Student and Part-time Developer!
 
 - 🔭 I'm interested in fintech and edtech
 - 🌱 Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
