@@ -33,8 +33,8 @@ Javascript
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40">
 React.js
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv3WpZrEQcWAgaWswSr96MK3rbJGvu1_NZQ&usqp=CAU" width="40" height="40">
-Express 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="40" height="40">
+Express.js 
+<img src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png" width="40" height="40">
 <br>
 Java
 <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="40" height="40">
