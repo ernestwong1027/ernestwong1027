@@ -35,23 +35,23 @@ React.js
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv3WpZrEQcWAgaWswSr96MK3rbJGvu1_NZQ&usqp=CAU" width="40" height="40">
 Express.js 
 <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="100" height="40">
-Java
-<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="40" height="40">
-Python
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40" height="40">
-<br>
-Swift
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="40" height="40">
-Dart (Flutter)
-<img src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="50" height="40">
 Mongodb 
 <img src="https://images.cms.fivetran.com/mgtdf72hs0mx/6EqChQTpjHA93FltCUKXwf/066e4052c668145acb311e8d12508c3c/MongoDB.svg" width="50" height="40">
 SQL 
 <img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" width="40" height="40">
+<br>
 PHP 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="80" height="40">
 Laravel 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="40" height="40">
+Java
+<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="40" height="40">
+Python
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40" height="40">
+Swift
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="40" height="40">
+Dart (Flutter)
+<img src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="50" height="40">
 Git
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40">
 
