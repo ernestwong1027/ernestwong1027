@@ -43,9 +43,9 @@ Python
 Swift
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="40" height="40">
 Dart (Flutter)
-<img src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="40" height="40">
+<img src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="50" height="40">
 Mongodb 
-<img src="https://images.cms.fivetran.com/mgtdf72hs0mx/6EqChQTpjHA93FltCUKXwf/066e4052c668145acb311e8d12508c3c/MongoDB.svg" width="40" height="40">
+<img src="https://images.cms.fivetran.com/mgtdf72hs0mx/6EqChQTpjHA93FltCUKXwf/066e4052c668145acb311e8d12508c3c/MongoDB.svg" width="50" height="40">
 SQL 
 <img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" width="40" height="40">
 PHP 
