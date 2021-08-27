@@ -4,20 +4,20 @@
 
 ## I'm a student studying Computer Science and Business Administration (CS/BBA Double Degree) at the University of Waterloo and Wilfred Laurier University!
 
-- 🔭 I'm interested in fintech and edtech
-- 🌱 Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
-- 🥅 2021 Goals: Learn more backend
-- ⚡ Fun fact: I love flipping used electronics
+- 🔭  I'm interested in fintech and edtech
+- 🌱  Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
+- 🥅  2021 Goals: Learn more backend
+- ⚡  Fun fact: I love flipping used electronics
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ernest-wong-90b4521a7/">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40">
-         LinkedIn
+          LinkedIn
 </a>
 <br>
 <a href="mailto:ernestwong1027@gmail.com">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40" height="40">
-         ernestwong1027@gmail.com
+          ernestwong1027@gmail.com
 </a>
 <br/>
 
