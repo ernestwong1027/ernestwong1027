@@ -34,7 +34,7 @@ Javascript
 React.js
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv3WpZrEQcWAgaWswSr96MK3rbJGvu1_NZQ&usqp=CAU" width="40" height="40">
 Express.js 
-<img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="40" height="40">
+<img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="100" height="40">
 Java
 <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="40" height="40">
 Python
