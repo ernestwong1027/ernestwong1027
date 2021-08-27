@@ -42,22 +42,15 @@ Python
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40" height="40">
 Swift
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="40" height="40">
-<br>
 Dart (Flutter)
 <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="40" height="40">
-<br>
 Mongodb 
 <img src="https://images.cms.fivetran.com/mgtdf72hs0mx/6EqChQTpjHA93FltCUKXwf/066e4052c668145acb311e8d12508c3c/MongoDB.svg" width="40" height="40">
-<br>
 SQL 
-<img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" width="40" height="40">
-<br>
 PHP 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="40">
-<br>
 Laravel 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="40" height="40">
-<br>
 Git
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40">
 
