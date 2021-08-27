@@ -49,7 +49,7 @@ Mongodb
 SQL 
 <img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" width="40" height="40">
 PHP 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="80" height="40">
 Laravel 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="40" height="40">
 Git
