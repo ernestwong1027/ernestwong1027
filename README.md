@@ -2,7 +2,7 @@
 
 
 
-## I'm an IB Student and Part-time Developer!
+## I'm a student studying Computer Science and Business Administration (CS/BBA Double Degree) At the University of Waterloo and Wilfred Laurier University!
 
 - 🔭 I'm interested in fintech and edtech
 - 🌱 Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
