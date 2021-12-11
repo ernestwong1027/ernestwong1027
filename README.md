@@ -4,13 +4,15 @@
 
 ## I'm a Student Studying a Computer Science and Business Administration Double Degree at the University of Waterloo and Wilfred Laurier University!
 
+<a href="https://www.solvrapp.com/"> Check out the newest project I've been working on. 
+         <br> Solvr is a peer-to-peer tutoring app now live on the App Store and Google Play Store </br></a>
+
 - 🔭  I'm interested in fintech and edtech
 - 🌱  Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
 - 🥅  2021 Goals: Learn more backend
 - ⚡  Fun fact: I love flipping used electronics
 
-<a href="https://www.solvrapp.com/"> Check out the newest project I've been working on. 
-          Solvr is a peer-to-peer tutoring app now live on the App Store and Google Play Store </a>
+
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ernest-wong-90b4521a7/">
