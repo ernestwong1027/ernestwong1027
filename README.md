@@ -9,7 +9,8 @@
 - 🥅  2021 Goals: Learn more backend
 - ⚡  Fun fact: I love flipping used electronics
 
-<a href="https://www.solvrapp.com/"> Check out the newest project I've been working on. Solvr is a peer-to-peer tutoring app now live on the App Store and Google Play Store </a>
+<a href="https://www.solvrapp.com/"> Check out the newest project I've been working on. 
+          Solvr is a peer-to-peer tutoring app now live on the App Store and Google Play Store </a>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ernest-wong-90b4521a7/">
