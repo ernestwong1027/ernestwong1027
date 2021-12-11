@@ -5,7 +5,7 @@
 ## I'm a Student Studying a Computer Science and Business Administration Double Degree at the University of Waterloo and Wilfred Laurier University!
 
 <a href="https://www.solvrapp.com/"> Check out the newest project I've been working on!
-         <br> Solvr is a peer-to-peer tutoring app now live <br>on the App Store and Google Play Store </a>
+         <br> Solvr is a peer-to-peer tutoring app now live on the App Store and Google Play Store </a>
 
 - 🔭  I'm interested in fintech and edtech
 - 🌱  Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
