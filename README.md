@@ -8,6 +8,7 @@
 - 🌱  Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
 - 🥅  2021 Goals: Learn more backend
 - ⚡  Fun fact: I love flipping used electronics
+
 Check out the newest project I've been working on, <a href="https://www.solvrapp.com/"> Solvr </a>
 
 ### Connect with me:
