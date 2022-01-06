@@ -1,16 +1,18 @@
-## Hi there, I'm Ernest  👋
+## Hi there, I'm Ernest Wong👋
 
 
 
-## I'm a Student Studying a Computer Science and Business Administration Double Degree at the University of Waterloo and Wilfred Laurier University!
+### I'm Currently studying at the University of Waterloo in the Computer Science and Business Administration Double Degree Program!
+Visit My Website: <a href="https://www.ernestw.com">ernestw.com</a><br/>
+View My Resume: <a href="https://drive.google.com/file/d/1L-kPVOyDDLc-SUuYlixRUFCXBcTZ3x3x/view">Resume</a><br/>
+Check out the newest project I've been working on: <a href="https://www.solvrapp.com/"> Solvr! </a>
 
-<a href="https://www.solvrapp.com/"> Check out the newest project I've been working on!
-         <br> Solvr is a peer-to-peer tutoring app now live on the App Store and Google Play Store </a>
-
+### A little bit about me:
 - 🔭  I'm interested in fintech and edtech
 - 🌱  Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
-- 🥅  2021 Goals: Learn more backend
 - ⚡  Fun fact: I love flipping used electronics
+- <strike> 🥅  2021 Goal: Learn more backend</strike>
+- 🥅 2022 Goal: Learn more about data science!
 
 
 
