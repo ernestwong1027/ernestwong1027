@@ -4,7 +4,7 @@
 
 ### I'm currently studying at the University of Waterloo in the Computer Science and Business Administration Double Degree Program!
 Visit My Website: <a target="_blank" href="https://www.ernestw.com">ernestw.com</a><br/>
-View My Resume: <a target="_blank" href="https://drive.google.com/file/d/1L-kPVOyDDLc-SUuYlixRUFCXBcTZ3x3x/view">Resume</a><br/>
+View My Resume: <a target="_blank" href="https://drive.google.com/file/d/1N9CBOvPlwj6LJ20IefKaglG_O7q2vW0E/view?usp=sharing">Resume</a><br/>
 Check out the newest project I've been working on: <a target="_blank" href="https://www.solvrapp.com/"> Solvr! </a>
 
 ### A little bit about me:
