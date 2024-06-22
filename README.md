@@ -2,34 +2,7 @@
 
 
 
-### I'm a SWE intern at Bloomberg who's currently studying at the University of Waterloo in the Computer Science and Business Administration Double Degree Program!
-Visit My Website: <a target="_blank" href="https://www.ernestw.com">ernestw.com</a><br/>
-View My Resume: <a target="_blank" href="https://drive.google.com/file/d/1N9CBOvPlwj6LJ20IefKaglG_O7q2vW0E/view?usp=sharing">Resume</a><br/>
-Check out the newest project I've been working on: <a target="_blank" href="https://www.solvrapp.com/"> Solvr! </a>
 
-### A little bit about me:
-- 🔭  I'm interested in fintech and edtech
-- 🌱  Recent achievement: Achieved 75/75 on the 2021 CCC and qualified for the 2021 CCO
-- ⚡  Fun fact: I love flipping used electronics
-- <strike> 🥅  2021 Goal: Learn more backend</strike>
-- 🥅 2022 Goal: Learn more about data science!
-
-
-
-### Connect with me:
-<a href="https://www.linkedin.com/in/ernest-wong-90b4521a7/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40">
-          LinkedIn
-</a>
-<br>
-<a href="mailto:ernestwong1027@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40" height="40">
-          ernestwong1027@gmail.com
-</a>
-<br/>
-
-
-<br />
 
 ### Languages, Frameworks and Tools:
 HTML
